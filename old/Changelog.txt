@@ -1,0 +1,68 @@
+ ####     #    #       # ######     ####  #    # ######
+#    #   # #   ##     ## #         #    # ##   # #
+#       #   #  # #   # # ####      #    # # #  # ####
+#   ##  #####  #  # #  # #         #    # #  # # #
+#    # #     # #   #   # #         #    # #   ## #
+ ##### #     # #       # ######     ####  #    # ######
+ 
+	GameOne
+		by Velibor Bacujkov
+
+	
+v0.1
+	Release date: 18. Jun 2013
+	
+- first version
+
+	
+v0.2
+	Release date: 19. Jun 2013
+	
+- added mouse shooting
+- added mobs
+
+	
+v0.3
+	Release date: 19. Jun 2013
+	
+- increased sprite size to 32
+- changed textures
+
+v0.3.1
+	Release date: 20. Jun 2013
+	
+- reverted to old textures
+- added in-game menu
+- improved diagonal movement
+
+	
+v0.4
+	Release date: 20. Jun 2013
+	
+- added angular movement
+- introduced mouse movement
+
+v0.4.1
+	Release date: 22. Jun 2013
+	
+- improved directions
+- improved mob updating
+- added enemy textures
+
+v0.4.2
+	Release date: 24. Jun 2013
+	
+- optimized code
+- separated resources from .jar file
+- added projectile acceleration
+
+
+v0.5
+	Release date: 27. Jun 2013
+	
+- reduced texture and screen size
+- added alpha and improved graphics engine
+- added health and resource bars
+- improved A.I. aiming
+- added classes
+
